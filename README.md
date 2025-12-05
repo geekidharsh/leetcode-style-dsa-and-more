@@ -1,7 +1,7 @@
 # Data Structures and Algorithms
 
 My solutions to 200+ LeetCode-ish DSA problems, because modern hiring pipelines are still throwing
-`AttributeError: 'NoneType' object has no attribute 'insight'` and pretending it'll still work somehow.
+`AttributeError: 'NoneType' object has no attribute 'insight'` and pretending it'll work somehow.
 
 
 ###
