@@ -1,0 +1,12 @@
+Round 2: system design
+    Design web crawler
+Round 3: system design
+    How will you design an ML platform, where models are updated periodically. You have services 
+    that need to consume these models and analyse data
+        -> How will you handle deployment of the service
+        -> How will you debug if your app crashes?
+        -> What will you check if you see pattern of periodic bursts of traffic at a given time everyday
+
+Round 4: coding
+    Trie based problem
+    https://leetcode.com/problems/design-search-autocomplete-system
